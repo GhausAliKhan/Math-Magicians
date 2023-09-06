@@ -37,7 +37,7 @@ const Quotes = () => {
             &quot;
           </p>
           <p>
-            -
+            - &nbsp;
             {quotes.author}
           </p>
         </div>
