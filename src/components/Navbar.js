@@ -6,12 +6,12 @@ function Navbar() {
     <div>
       <header>
         <nav>
-          <Link className="Logo" to="/Home">
+          <Link className="Logo" to="/">
             Math Magicians
           </Link>
           <ul className="navList">
             <li className="navItem">
-              <Link className="navAnchor" to="/Home">
+              <Link className="navAnchor" to="/">
                 Home
               </Link>
             </li>
