@@ -17,4 +17,8 @@ describe('Operate calculation', () => {
     const result = operate(9, 9, '/');
     expect(result).toBe('1');
   });
+  test('8 mod 2', () => {
+    const result = operate(8, 2, '%');
+    expect(result).toBe('0');
+  });
 });
