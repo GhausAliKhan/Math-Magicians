@@ -6,9 +6,8 @@
 </div>
 
 # 📗 Table of Contents
-
-- [📗 Table of Contents](#-table-of-contents)
 - [📖 [Math Magicians] ](#React)
+  - [🚀 Live Demo](#live-demo)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features ](#key-features-)
@@ -27,6 +26,12 @@
 # 📖 Math Magicians <a name="React"></a>
 
 **Math Magicians** is a project under Microverse Module 2 aimed at testing our knowledge about the concepts learnt and to help us build an application to take in and display tasks.
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://math-magicians-jdkx0kkdw-ghausalikhan.vercel.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛠 Built With <a name="build-with"></a>
 
